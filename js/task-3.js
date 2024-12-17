@@ -28,6 +28,7 @@ nameInput.style.setProperty('::placeholder', `
   color: #2e2f42;
 `);
 
+const heading = document.querySelector('h1');
 
 heading.style.fontFamily = '"Montserrat", sans-serif';
 heading.style.fontWeight = '600';
